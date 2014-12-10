@@ -1,0 +1,9 @@
+package labo1.alfonso.model;
+
+public class HtmlNode {
+	private String tagName;
+	private String id;
+	private String classs;
+	
+	
+}

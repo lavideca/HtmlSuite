@@ -1,0 +1,23 @@
+{
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre7\\lib\\rt.jar\u0027. Skipped."
+  },
+  "C:\\Users\\ralfonso\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\src": {
+    "location": "C:\\Users\\ralfonso\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ralfonso\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ralfonso\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\lib\\rsyntaxtextarea.jar": {
+    "location": "C:\\Users\\ralfonso\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\lib\\rsyntaxtextarea.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\ralfonso\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\lib\\rsyntaxtextarea.jar\u0027. Neither fingerprint \u0027d8b2eeb935276cd9de4f6ff3511d372242db0e8f\u0027 nor symbolic name \u0027rsyntaxtextarea\u0027 are known."
+  },
+  "C:\\Users\\rodrigo\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\src": {
+    "location": "C:\\Users\\rodrigo\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\rodrigo\\Dropbox\\UP\\Materias\\In Progress\\Laboratorio I\\Application\\src\u0027. Skipped."
+  }
+}

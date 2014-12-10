@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;labo1.alfonso.model.TreeModel.java&apos; to &apos;TreeModelAdapter.java&apos;&#x0D;&#x0A;- Original project: &apos;Application&apos;&#x0D;&#x0A;- Original element: &apos;labo1.alfonso.model.TreeModel.java&apos;&#x0D;&#x0A;- Renamed element: &apos;labo1.alfonso.model.TreeModelAdapter.java&apos;" description="Rename compilation unit &apos;TreeModel.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;labo1.alfonso.model{TreeModel.java" name="TreeModelAdapter.java" references="false" stamp="1370385727596" version="1.0"/>
+</session>
